@@ -1,2 +1,2 @@
 # wireframe2website
-![HomePage](C:\Users\Orange\Desktop\HomePage.jpg)
+![HomePage](C:/Users/Orange/Desktop/HomePage.jpg)
