@@ -1,4 +1,7 @@
 # wireframe2website
+### introduction
+##### The website I have created consists of several pages, including a home page, an about page, a products page, and a contact page. Each page is designed to provide users with relevant information and an enjoyable browsing experience.
+
 ### tools
 - VScode
 - GitHub
